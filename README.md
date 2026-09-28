@@ -25,11 +25,15 @@ Program ini mensimulasikan sistem perbankan terstruktur yang terdiri dari Entita
 ## 📸 Screenshot Hasil Program (Output)
 
 1. **Screenshot Menu Utama & Cek Saldo**
+
    ![Menu Utama](tugas/images/image.png)
 
 2. **Screenshot Setor Tunai & Tarik Tunai**
+   
    ![Setor Tunai](tugas/images/image-1.png)
+
    ![Tarik Tunai](tugas/images/image-3.png)
+
 
 ```
 
